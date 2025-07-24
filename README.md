@@ -10,6 +10,18 @@
 
 ---
 
+## 📖 **Complete Documentation Hub**
+
+### **🎮 Core Game Information**
+- **[📘 GAMEPLAY.md](./GAMEPLAY.md)** - Comprehensive ghost possession mechanics, multiplayer modes, and strategic gameplay systems
+- **[⚙️ TECHNICAL.md](./TECHNICAL.md)** - Unreal Engine 5.5 specifications, cross-platform optimization, and networking architecture
+- **[🚀 DEVELOPMENT.md](./DEVELOPMENT.md)** - Current development progress, visual showcase, and 6-month roadmap
+
+### **👥 Professional Team**
+- **[👨‍💼 TEAM.md](./TEAM.md)** - Leadership team profiles, professional backgrounds, and contact information
+
+---
+
 ## 🎮 **Game Overview**
 
 **Ghost Protocol: Haunted Realms** is the first professional 3D horror gaming experience where players control supernatural entities to manipulate everyday objects through advanced physics-based interactions. Built with Unreal Engine 5.5, our game combines atmospheric horror with innovative possession mechanics across desktop, mobile, and future console platforms.
@@ -66,6 +78,8 @@ Our development showcases console-quality 3D environments optimized for cross-pl
 - **Environmental Storytelling**: Recreate specific paranormal scenarios
 - **Tournament Mode**: Competitive ghost hunting with spectator features
 
+**[📖 Read the complete gameplay documentation →](./GAMEPLAY.md)**
+
 ---
 
 ## ⚙️ **Technical Architecture**
@@ -96,6 +110,8 @@ UNREAL ENGINE 5.5 FOUNDATION
 - **Adaptive Quality**: Automatic graphics scaling based on device capabilities
 - **Cloud Save**: Progress synchronization across all platforms
 - **Cross-Platform Play**: Desktop and mobile players in same sessions
+
+**[🔧 Read the complete technical documentation →](./TECHNICAL.md)**
 
 ---
 
@@ -154,17 +170,17 @@ UNREAL ENGINE 5.5 FOUNDATION
 ### **Core Team Members**
 
 #### **🎯 IndiaHV - CEO & Strategic Vision**
-- **Role**: Chief Executive Officer, strategic leadership, market positioning
+- **Role**: Strategic leadership, market positioning, cultural gaming expertise
 - **Contact**: indiahv@cpgplay.com
-- **Authority**: Cultural gaming expertise with 340% higher engagement validation in Asian markets
+- **Authority**: 340% higher engagement validation in Asian gaming markets
 - **Achievement**: Identified ghost gaming market opportunity 18 months before mainstream recognition
 
 #### **💼 Bunny Goyal (Rishav) - COO & Business Development**  
-- **Role**: Chief Operating Officer, business development, operations management
+- **Role**: Business operations, partnership development, systematic growth execution
 - **Contact**: rishav@cpgplay.com
 - **Telegram**: @thebunnygoyal  
 - **Achievement**: 73.4% meeting conversion rate vs. 2.1% industry average
-- **Expertise**: Streamlined development processes reducing time-to-market by 40%
+- **Expertise**: 40% reduction in time-to-market through streamlined processes
 
 #### **⚙️ Harshita - CTO & Lead Developer**
 - **Role**: Technical architecture, Unreal Engine development, cross-platform optimization
@@ -178,6 +194,8 @@ UNREAL ENGINE 5.5 FOUNDATION
 - **Agile Development**: 2-week sprint cycles with measurable deliverables  
 - **Cross-Platform Excellence**: Single codebase deployment across all platforms
 - **Community Focus**: 87%+ satisfaction rates across gaming projects
+
+**[👥 Read complete team documentation →](./TEAM.md)**
 
 ---
 
@@ -218,19 +236,7 @@ UNREAL ENGINE 5.5 FOUNDATION
 - Marketing campaign development and influencer partnerships
 - Post-launch content roadmap and community features
 
-### **Success Metrics & KPIs**
-
-**Technical Performance Targets:**
-- **Mobile Performance**: 30+ FPS on iPhone 12+ and Snapdragon 778G+
-- **Network Latency**: <100ms possession event synchronization  
-- **Crash Rate**: <0.1% across all platforms
-- **App Store Ratings**: 4.5+ stars with 85%+ positive reviews
-
-**User Engagement Targets:**
-- **Month 6**: 1,000+ monthly active users across platforms
-- **Month 12**: 10,000+ combined MAU with 15+ minute average sessions
-- **Retention Rates**: 40%+ Day 7, 15%+ Day 30 across platforms
-- **Community Growth**: 2,000+ Discord members, 10,000+ social followers
+**[🚀 Read complete development documentation →](./DEVELOPMENT.md)**
 
 ---
 
